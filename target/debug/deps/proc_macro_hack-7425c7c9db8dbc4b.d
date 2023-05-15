@@ -1,0 +1,9 @@
+E:\Win32.Rust.LucaStealer\target\debug\deps\proc_macro_hack-7425c7c9db8dbc4b.dll: C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\lib.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\quote.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\error.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\iter.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\parse.rs
+
+E:\Win32.Rust.LucaStealer\target\debug\deps\proc_macro_hack-7425c7c9db8dbc4b.d: C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\lib.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\quote.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\error.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\iter.rs C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\parse.rs
+
+C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\lib.rs:
+C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\quote.rs:
+C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\error.rs:
+C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\iter.rs:
+C:\Users\MR\ KINH\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\parse.rs:
