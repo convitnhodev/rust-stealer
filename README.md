@@ -1,7 +1,5 @@
-## rust-stealer / Luca Stealer
+## rust-stealer / convitnhodev
 
-## How to setup?
-https://github.com/luca364/rust-stealer/wiki/Installation
 
 # Functions:
 ### Wallet Stealer
@@ -134,15 +132,6 @@ https://github.com/luca364/rust-stealer/wiki/Installation
 
 - Simple Anti VM
 
-
-## Write Up's about the stealer
-https://github.com/luca364/rust-stealer/wiki/Write-Up's
-
-
-## I need help setting it up
-
-Please try it yourself first, If you cant do it.
-Write me https://t.me/Lxca1337
 
 
 
